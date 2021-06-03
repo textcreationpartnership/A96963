@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An occasionall speech made to the House of Commons this Parliament, 1641. against Bishops. By Sir John Wray, knight and baronet. Being none of the 8 speeches before published.</title>
+            <author>Wray, John, Sir, 1586-1655.</author>
+         </titleStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96963</idno><idno type="EEBO-CITATION">99873597</idno>
+  <idno type="VID">157483</idno>
+  <idno type="EEBO-PROQUEST">2240939600</idno>
+  
+            <idno type="STC">Wing W3668</idno>
+            <idno type="STC">Thomason E198_8</idno>
+            <idno type="STC">ESTC R9654</idno>
+            <idno type="PROQUEST">99873597</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873597e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157483)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E198[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An occasionall speech made to the House of Commons this Parliament, 1641. against Bishops. By Sir John Wray, knight and baronet. Being none of the 8 speeches before published.</title>
+                  <author>Wray, John, Sir, 1586-1655.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Nicholson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Bishops --  Early works to 1800.</term>
+               <term type="topical_term">Bishops --  Temporal power --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157483:1"/>
+            <p> An Occasionall SPEECH MADE TO THE HOVSE OF COMMONS this Parliament, 1641.</p>
+            <p>
+               <hi>Against Bishops.</hi>
+            </p>
+            <p>BY Sir JOHN WRAY, Knight and Baronet.</p>
+            <p>
+               <hi>Being none of the</hi> 8. <hi>Speeches before published.</hi>
+            </p>
+            <p>LONDON, Printed for IOHN NICHOLSON. 1641.</p>
+            <pb facs="tcp:157483:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:157483:2"/>
+            <head>
+               <hi>Sir</hi> JOHN WRAYES SPEECH concerning BISHOPS, 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He first chalenge for Lord<g ref="char:EOLhyphen"/>ly Primacie hath of old beene grounded out of the great Charter, by which they hold an Episcopall primacy or Iurisdiction to belong to their state of Prelacie: this is their temporall foundation and maine object Here I demand of them unto what Church this great Charter was granted, and whether it were not granted unto the Church of GOD in <hi>England?</hi> Let the words of the <hi>Magna Charta</hi> decide this
+<pb n="2" facs="tcp:157483:3"/> which are these; <hi>Concessimus Deo pro nobis in perpetuum, quod Ecclesia Anglioana libera sit, habeat omnia Iura sua Integra &amp; libertates suas illaesas.</hi> Now by this Charter, if it bee rightly inter<g ref="char:EOLhyphen"/>preted, there is first provision made, that honour and worship be yeelded unto GOD, as truly and indeed belong unto him.</p>
+            <p>Secondly, that not only such Rights and Liberties as the King and his pro<g ref="char:EOLhyphen"/>genitors, but also that such as God had endowed the Church of <hi>England</hi> with, which God himselfe hath given by his Law unto the universall <hi>Church,</hi> and in that which the Kings of <hi>England</hi> by their <hi>Charter</hi> have bequeathed to the particular Church of <hi>England,</hi> and this we doubt not was the cause that moved <hi>Hen.</hi> 8. so effectually and pow<g ref="char:EOLhyphen"/>erfully to bend himselfe against the Popes Supremacy, usurped at that time over the Church of <hi>England,</hi> for, saith the King, we will with hazard of
+<pb n="3" facs="tcp:157483:3"/> life and losse of our Crowne uphold and defend in our Realmes whatsoever we shall know to be the will of God.</p>
+            <p>The Church of God then in <hi>England</hi> not being free, according to the great <hi>Charter,</hi> but in bondage and servitude to the <hi>See</hi> of <hi>Rome,</hi> contrary to the Law of God, the King judged it to stand highly with his honor, and his Oath to reforme, redresse, and amend the abuses of the same <hi>See.</hi>
+            </p>
+            <p>If then it might please our gracious Soveraign Lord King <hi>Charles,</hi> that now is, in Imitation of that his noble Proge<g ref="char:EOLhyphen"/>nitor to vouchsafe an abolishment of all Lordly primacy executed by Arch<g ref="char:EOLhyphen"/>episcopall &amp; Episcopall authority over the Ministers of <hi>Christ,</hi> his Highnesse in so doing could no more rightly be charged with the violatiō of the great <hi>Charter,</hi> then might K. <hi>Henry</hi> the 8. with the banishment of the Popish Supre<g ref="char:EOLhyphen"/>macy, or then our late Soveraign Lady Q <hi>Elizabeth</hi> could be justly burdened
+<pb n="4" facs="tcp:157483:4"/> with the breach of her oath by the e<g ref="char:EOLhyphen"/>stablishment of the <hi>Gospell.</hi> Now if the Kings of <hi>England</hi> by reason of their oath were so streightly tyed to the words of the great <hi>Charter,</hi> that they might not in any sort have disanulled any supposed <hi>Rights,</hi> or Liberties of the Church used &amp; confirmed by the said <hi>Charter</hi> unto the Church, that then was supposed to be the Church of God in <hi>England,</hi> then belike K. <hi>Henry</hi> 8. might be attainted to have gone against the great <hi>Charter</hi> &amp; against his oath, when by the overthrow of <hi>Abbeys</hi> and <hi>Mona<g ref="char:EOLhyphen"/>steries</hi> he tooke away the <hi>Rights</hi> and <hi>Li<g ref="char:EOLhyphen"/>berties</hi> of the <hi>Abbots</hi> and <hi>Priors,</hi> for by expresse words of the great <hi>Charter, Ab<g ref="char:EOLhyphen"/>bots</hi> and <hi>Priors</hi> had as large and ample a <hi>Pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tent</hi> for their Rights and Liberties, as our Archbishops and Bishops, can at this day challenge for their Primacy.</p>
+            <p>If then the Rights and Liberties of the one, as being against the Law of God, be duely &amp; lawfully takes away,
+<pb n="5" facs="tcp:157483:4"/> notwithstanding any matter, clause or sentence contained in the great Char<g ref="char:EOLhyphen"/>ter, the other having but little reason by colour of the great Charter to stand upon their pantables, and to contend for their painted Sheaves, for this is a Rule and Maxime in Gods lawes; that <hi>In omni Iuramento semper excipitur autho<g ref="char:EOLhyphen"/>ritas majoris.</hi>
+            </p>
+            <p>Vnlesse then they be able to justifie by the holy Scriptures, that such Rights and Liberties, as they pretend for their spirituall Primacy over the Ministers of Christ, be in deed &amp; truth inferred un<g ref="char:EOLhyphen"/>to them by the holy law of God, I sup<g ref="char:EOLhyphen"/>pose the Ks. Highnesse (as successor to <hi>H.</hi> 8. and as most just inheritour of the Crowne of <hi>England)</hi> by the words of the great Charter, and by his oath, is bound utterly to abolish all Lordly Primacy, as hitherto upheld and de<g ref="char:EOLhyphen"/>fended, partly by ignorance and part<g ref="char:EOLhyphen"/>ly by an unreasonable and evill Cu<g ref="char:EOLhyphen"/>stome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
